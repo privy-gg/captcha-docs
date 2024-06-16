@@ -8,13 +8,13 @@ export default defineConfig({
     description: "Documentation and setup guide for Captcha.bot",
 
     head: [
-        ['link', { rel: "shortcut icon", href: "rounded-logo.png"}],
+        ['link', { rel: "shortcut icon", href: "/rounded-logo.png"}],
     ],
 
     cleanUrls: true,
 
     themeConfig: {
-        logo: "rounded-logo.png",
+        logo: "/rounded-logo.png",
 
         // https://vitepress.dev/reference/default-theme-config
         nav: [
