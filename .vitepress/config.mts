@@ -8,13 +8,13 @@ export default defineConfig({
     description: "Documentation and setup guide for Captcha.bot",
 
     head: [
-        // ['link', { rel: "shortcut icon", href: "rounded-logo.png"}],
+        ['link', { rel: "shortcut icon", href: "rounded-logo.png"}],
     ],
 
     cleanUrls: true,
 
     themeConfig: {
-        // logo: "rounded-logo.png",
+        // logo: "public/rounded-logo.png",
 
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -23,9 +23,9 @@ export default defineConfig({
             { text: "Dashboard", link: "https://captcha.bot/dashboard" }
         ],
 
-        search: {
-            provider: "local"
-        },
+        // search: {
+        //     provider: "local"
+        // },
 
         socialLinks: [
             { icon: "discord", link: "https://discord.gg/captcha" },
