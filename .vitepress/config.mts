@@ -14,7 +14,7 @@ export default defineConfig({
     cleanUrls: true,
 
     themeConfig: {
-        // logo: "public/rounded-logo.png",
+        logo: "rounded-logo.png",
 
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -23,9 +23,9 @@ export default defineConfig({
             { text: "Dashboard", link: "https://captcha.bot/dashboard" }
         ],
 
-        // search: {
-        //     provider: "local"
-        // },
+        search: {
+            provider: "local"
+        },
 
         socialLinks: [
             { icon: "discord", link: "https://discord.gg/captcha" },
