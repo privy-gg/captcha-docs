@@ -133,3 +133,14 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/**
+ * Image zooming
+ * -------------------------------------------------------------------------- */
+
+.medium-zoom-overlay {
+  z-index: 30;
+}
+
+.medium-zoom-image {
+  z-index: 31;
+}
