@@ -6,7 +6,7 @@ outline: deep
 
 ## Premium Perks
 
-Premium perks are **$8.99**/discord server
+Premium perks are **$11.99**/discord server
 
 | **Feature**          | **Free**      | **Premium (Monthly, Yearly, Lifetime)** | **Enterprise** |
 |----------------------|---------------|-----------------------------------------|----------------|
