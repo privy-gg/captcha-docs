@@ -11,13 +11,16 @@ hero:
       text: Getting started
       link: /introduction/getting-started
     - theme: alt
+      text: Verification problems
+      link: /reference/verification-faq
+    - theme: alt
       text: Commands
       link: /reference/command-reference
 
 features:
   - icon: 👮‍♂️
     title: Account Verification
-    details: Require members to verify before participating in your server 
+    details: Require members to verify before participating in your server
     link: /introduction/getting-started
     linkText: Get started
   - icon: ⏰
@@ -31,4 +34,3 @@ features:
     link: /specific-features/anti-phishing
     linkText: Setup anti-phishing
 ---
-

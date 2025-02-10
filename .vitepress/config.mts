@@ -47,7 +47,8 @@ export default defineConfig({
                 items: [
                     { text: "Commands", link: "/reference/command-reference" },
                     { text: "Phishing Scams", link: "/reference/phishing-scams" },
-                    { text: "FAQ", link: "/reference/faq" }
+                    { text: "Verification Problems", link: "/reference/verification-faq" },
+                    { text: "FAQ", link: "/reference/faq" },
                 ],
                 collapsed: false
             },
