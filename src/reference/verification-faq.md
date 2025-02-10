@@ -18,6 +18,6 @@ Enable images by going to Discord user settings -> Chat -> Display Images, VIDEO
 
 ## I can't view embeds
 
-![No embed example](../images/reference/verification-faq/no-images.png)
+![No embed example](../images/reference/verification-faq/no-embeds.png)
 
 Enable embeds by going to Discord user settings -> Chat -> Embeds and Link Previews -> Show embeds and preview website links pasted into chat -> Toggle it on.
